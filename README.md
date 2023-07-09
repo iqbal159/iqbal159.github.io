@@ -12,4 +12,4 @@ This website showcases my projects, provides information about me, and serves as
 - CSS
 - JavaScript
 
-### To view the website, simply visit [Iqbal's Portfolio](https://iqbal159.github.io)
+### To view the website, simply visit <a href="https://iqbal159.github.io" target="_blank">Iqbal's Portfolio</a>
